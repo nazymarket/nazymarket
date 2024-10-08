@@ -19,7 +19,7 @@ Welcome on our GitHub Page! Enjoy your stay
 
 ## How to Join
 
-1. Join our Discord server [here](YOUR_DISCORD_LINK).
+1. Join our Discord server [here](dsc.gg/nezymarket).
 2. Familiarize yourself with the community guidelines.
 3. Access the marketplace channel to start exploring!
 
@@ -32,6 +32,6 @@ Welcome on our GitHub Page! Enjoy your stay
 
 ## How to Make a Listing
 
-1. Go to the marketplace channel.
+1. Go to the ticket channel.
 2. Use the following format for your listing:
 
