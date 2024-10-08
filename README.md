@@ -1,6 +1,6 @@
-# Discord Marketplace
+# Nazy Market
 
-Welcome to the Discord Marketplace! This is a platform for buying, selling, and trading various goods and services within our Discord community.
+Welcome on our GitHub Page! Enjoy your stay
 
 ## Table of Contents
 
